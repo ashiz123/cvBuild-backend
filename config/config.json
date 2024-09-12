@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "yankee123",
+    "database": "express_app",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "yankee123",
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "yankee123",
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
+
+
